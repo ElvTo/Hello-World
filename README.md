@@ -1,6 +1,5 @@
 # Hello-World
 First repository*
 
-
-Wow, this is the edited Readme. This might? give us a conflict
-Second edit
+Wow, this is the edited Readme
+This time I added and deleted lines
